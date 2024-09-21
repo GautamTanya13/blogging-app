@@ -6,7 +6,7 @@ export const siteConfig = {
       "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
     links: {
       twitter: "https://www.linkedin.com/in/gautamt11/",
-      github: "https://github.com/GautamTanya13",
+      github: "https://github.com/GautamTanya13/blogging-app",
     },
   }
   
