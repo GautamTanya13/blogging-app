@@ -15,7 +15,7 @@ export default async function Home() {
         </p>
       </header>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 w-full max-w-4xl">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6 w-full max-w-4xl">
         <Link href="/create-post">
           <div className="bg-gray-800 rounded-lg shadow-lg p-6 transition-transform transform hover:scale-105">
             <h2 className="text-2xl font-semibold mb-2">Create a New Post</h2>
@@ -34,14 +34,14 @@ export default async function Home() {
           </div>
         </Link>
 
-        <Link href="https://github.com/GautamTanya13">
+        {/* <Link href="https://github.com/GautamTanya13">
           <div className="bg-gray-800 rounded-lg shadow-lg p-6 transition-transform transform hover:scale-105">
             <h2 className="text-2xl font-semibold mb-2">About This Blog</h2>
             <p className="text-gray-400">
               Learn more about our mission, the authors, and the community behind this blog.
             </p>
           </div>
-        </Link>
+        </Link> */}
       </div>
       </div>
 
